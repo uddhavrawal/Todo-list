@@ -50,32 +50,3 @@ npm start
 
 The application should open at [http://localhost:3000](http://localhost:3000) in the development mode.
 
-## Contributing
-
-To contribute to this project, the following steps are required:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/cesarcode-init/react-typescript-todo-app.git
-```
-
-2. Create a new branch:
-
-```bash
-git checkout -b BRANCH_NAME
-```
-
-3. Make the modifications.
-
-4. Submit a `Pull Request` providing a description of modifications.
-
-## Acknowledgements
-
-- [React Icons](https://react-icons.github.io/react-icons/).
-
-## License
-
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license. <br/> Copyright © 2022, Kaissar Mouelhi
-
-([back to top](#getting-started))
