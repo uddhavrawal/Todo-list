@@ -7,11 +7,11 @@ const Footer: React.FC = (): JSX.Element => {
       </div>
       <div>
         <a
-          href="https://Www.linkedin.com/in/ariyansahoo212/"
+          href="https://Www.linkedin.com/in/uddhavrawal/"
           target="_blank"
           rel="noreferrer"
         >
-          Ariyan Sahoo
+          Uddhav Rawal
         </a>
       </div>
     </footer>
