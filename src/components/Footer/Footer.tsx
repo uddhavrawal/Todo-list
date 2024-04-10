@@ -7,6 +7,14 @@ const Footer: React.FC = (): JSX.Element => {
       </div>
       <div>
         <a
+          href="https://github.com/uddhavrawal/Todo-list/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub
+        </a>
+        
+        <a
           href="https://Www.linkedin.com/in/uddhavrawal/"
           target="_blank"
           rel="noreferrer"
