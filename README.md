@@ -15,7 +15,7 @@ A Todo application which adops the CRUD operations. A user can create, read, upd
 
 ## Demonstration
 
-[Todo-list App](https://todo-list-62raljojf-uddhavrawals-projects.vercel.app)
+[Todo-list App](https://todo-list-uddhavrawal.vercel.app/)
 
 ## Prerequisites
 
