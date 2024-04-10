@@ -4,8 +4,6 @@ const Footer: React.FC = (): JSX.Element => {
   return (
     <footer className={styles.footer}>
       <div className={styles.links}>
-      </div>
-      <div>
         <a
           href="https://github.com/uddhavrawal/Todo-list/"
           target="_blank"
@@ -13,7 +11,8 @@ const Footer: React.FC = (): JSX.Element => {
         >
           GitHub
         </a>
-        
+        </div>
+      <div>
         <a
           href="https://Www.linkedin.com/in/uddhavrawal/"
           target="_blank"
