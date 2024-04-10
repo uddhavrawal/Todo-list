@@ -15,6 +15,7 @@ A Todo application which adops the CRUD operations. A user can create, read, upd
 
 ## Demonstration
 
+[Todo-list App](https://todo-list-62raljojf-uddhavrawals-projects.vercel.app)
 
 ## Prerequisites
 
@@ -28,7 +29,9 @@ It is required to clone or fork this project to get started.
 
 Clone this project by running the following command:
 
-
+```bash
+git clone https://github.com/uddhavrawal/Todo-list.git
+```
 
 Then change directory:
 
